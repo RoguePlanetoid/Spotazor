@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spotazor.Library", "Spotazor.Library\Spotazor.Library.csproj", "{27593079-1AA2-4D13-857C-62A7CF62A872}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spotazor.Client", "Spotazor.Client\Spotazor.Client.csproj", "{D4200E93-0C22-46BC-B451-15A2F9F09D33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spotazor.Hybrid", "Spotazor.Hybrid\Spotazor.Hybrid.csproj", "{369A9B16-CDDA-4F3A-994A-1B3EAECBCDB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27593079-1AA2-4D13-857C-62A7CF62A872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27593079-1AA2-4D13-857C-62A7CF62A872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27593079-1AA2-4D13-857C-62A7CF62A872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27593079-1AA2-4D13-857C-62A7CF62A872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4200E93-0C22-46BC-B451-15A2F9F09D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4200E93-0C22-46BC-B451-15A2F9F09D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4200E93-0C22-46BC-B451-15A2F9F09D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4200E93-0C22-46BC-B451-15A2F9F09D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369A9B16-CDDA-4F3A-994A-1B3EAECBCDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369A9B16-CDDA-4F3A-994A-1B3EAECBCDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369A9B16-CDDA-4F3A-994A-1B3EAECBCDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369A9B16-CDDA-4F3A-994A-1B3EAECBCDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B861842-DF2E-4D33-81A3-31D7D06D51AB}
+	EndGlobalSection
+EndGlobal
